@@ -1,2 +1,4 @@
 # hello-world
-Hello world, just another repo
+Hi All,
+
+This is my first adjustment, via the github
